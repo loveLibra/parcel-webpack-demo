@@ -1,0 +1,19 @@
+.logo {
+    width: 200px;
+}
+
+.item {
+    background: url('./parcel.png') no-repeat;
+    background-size: 30px;
+    padding-left: 40px;
+}
+
+.btn {
+    padding: 0 5px;
+    margin: 0 10px;
+    font-size: 14px;
+    background: #3359e7;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+}
